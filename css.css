@@ -33,6 +33,7 @@
 
 backgound{
 background-color: red;
+  flitter: blur(30px);
 }
 icon{
   position fixed;
