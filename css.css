@@ -35,5 +35,10 @@ backgound{
 background-color: red;
 }
 icon{
-background-color: var(--accent-3)
+  position fixed;
+  left: 50%;
+  top: 50%;
+background-color: var(--accent-3);
+  border-radies: 500px;
+  box-shadow: 1px 2px 0px black;
 }
