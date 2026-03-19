@@ -1,0 +1,39 @@
+:root{
+  --bg-primary: #1f2125;
+  --bg-secondary: #161a20;
+  --surface: #1e232b;
+  --border: #2a2f38;
+  --text-primary: #e6e8eb;
+  --text-secondary: #a8adb7;
+  --hint: #6b757b;
+  --icons: #5f7cff;
+  --accent-1: #3b79ee;
+  --accent-2: #3fb835;
+  --accent-3: #8b28f6;
+  --accent-4: #f9284b;
+  --accent-5: #fd6547;
+  --accent-6: #5d9fff;
+  --accent-7: #5de84b;
+  --accent-8: #6d23d4;
+  --accent-9: #ffb355;
+  --accent-10: #f6e657;
+  --accent-11: #3d4c6f;
+  --accent-12: #4d7c6f;
+  --accent-13: #6b25a4;
+  --accent-14: #8b254b;
+  --accent-15: #9f3b24;
+  --danger: #fa534b;
+  --warning: #ffe355;
+  --success: #5bb43b;
+  --info: #3a96e6;
+  --selection-glow: #c7cbd499;
+  --hover-overlay: #5f656a6a;
+  --active-tool-bg: #242A3c;
+}
+
+backgound{
+background-color: red;
+}
+icon{
+background-color: var(--accent-3)
+}
