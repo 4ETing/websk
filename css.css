@@ -23,6 +23,8 @@
 
 body{
     overflow: hidden;
+    background-image: url("ouyfgfnbhn.jpg");
+    background-size: cover;
     background-color: var(--mango-1);
     border-color: var(--lime-3);
     color: var(--lime-3);
