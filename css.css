@@ -43,3 +43,11 @@ logo{
     left: 50%;
     transform: translate(-50%,-10%);
 }
+box{ 
+    background-color: #ff44ffff;
+    height: 280px;
+    width: 170px;
+    top:30%;
+    left: 50%;
+    transform: translate(-50%,-10%);
+}
