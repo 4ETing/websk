@@ -11,16 +11,6 @@
     --lime-2: #79837a; --lime-3: #c4c5b5; --lime-4: #fff6ff;
 }
 
-*{
-    height: 100%;
-    width: 100%;
-    top: -2px;
-    left: 0px;
-    position:absolute;
-    margin: 0px;
-    padding: 0px;
-}
-
 body{
     overflow: hidden;
     background-image: url("./background.png");
@@ -91,4 +81,15 @@ section{
     filter: opacity(100%);
     transition: all 0.5s ease-in-out;
     };
+}
+
+
+*{
+    height: 100%;
+    width: 100%;
+    top: -2px;
+    left: 0px;
+    position:absolute;
+    margin: 0px;
+    padding: 0px;
 }
