@@ -16,6 +16,7 @@
     width: 100%;
     top: -2px;
     left: 0px;
+    position:absolute;
     margin: 0px;
     padding: 0px;
 }
@@ -91,4 +92,3 @@ section{
     transition: all 0.5s ease-in-out;
     };
 }
-
