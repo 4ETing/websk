@@ -12,6 +12,8 @@
 }
 
 body{
+    height: 100%;
+    width: 100%;
     overflow: hidden;
     background-image: url("./background.png");
     background-size: cover;
@@ -85,8 +87,6 @@ section{
 
 
 *{
-    height: 100%;
-    width: 100%;
     top: -2px;
     left: 0px;
     position:absolute;
