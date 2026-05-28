@@ -65,6 +65,8 @@ section{
     transition: all 0.5s ease-in-out;
     };
     img{
+    width: 210px;
+    height: 250px;
     border-radius: 24px;
     transition: all 0.2s ease-in-out;
     border: 3px solid var(--mango-1);
